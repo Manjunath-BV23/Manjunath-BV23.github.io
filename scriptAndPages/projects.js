@@ -85,7 +85,6 @@ projectsSection.innerHTML = `
                             <p><i class="fab fa-css3-alt"></i> CSS</p>
                             <p> <i class="fab fa-js-square"></i> JS </p>
                             <p> <i class="fab fa-js-square"></i> REACT </p>
-                            <p><i class="fab fa-html5"></i> REACT</p>
                             <p><i class="fab fa-css3-alt"></i> MongoDB</p>
                             
                         </div>
@@ -99,6 +98,37 @@ projectsSection.innerHTML = `
                     </div>
                 </div>
             </div>
+            <div class="eachProjectDiv">
+                <p class="ProjectName">Myntra</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/myntra.png" alt="" />
+                    </div>
+                    <div class="projectDescription">
+                        <p>Developed a clone of <a href="https://www.myntra.com/"
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Myntra</a> website.</p>
+                        <br >
+                        <p>This is individual project, build this clone in 5 days, websites which includes websites such as Login page, Home page, Product page, Cart page & Payment page.</p>
+                        </p>
+                        <br>
+                        <u style="text-decoration: underline;">TechStack :- </u>
+                        <br>
+                        <div class="techStackProject">
+                            <p> <i class="fab fa-js-square"></i> REACT </p>
+                            <p><i class="fab fa-html5"></i> HTML</p>
+                            <p><i class="fab fa-css3-alt"></i> CSS</p>
+                            <p> <i class="fab fa-js-square"></i> JS </p>
+                            <p><i class="fab fa-css3-alt"></i> MongoDB</p>
+                            
+                        </div>
+                        <div class="ProjectLinks">
+                            <a href="https://github.com/Manjunath-BV23/myntra.git"
+                                target="_blank"><button>
+                                    Github</button></a>
+                            <a href="https://myntra-ten.vercel.app/" target="_blank"><button>Demo</button></a>
 
-
+                        </div>
+                    </div>
+                </div>
+            </div>
 `;
