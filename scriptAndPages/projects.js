@@ -92,7 +92,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/Manjunath-BV23/swiggy-frontend-clone.git"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="http://swiggy-clone-frontend-tawny.vercel.app/" target="_blank"><button>Demo</button></a>
+                            <a href="https://swiggy-clone-frontend-eight.vercel.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
